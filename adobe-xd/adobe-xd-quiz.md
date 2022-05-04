@@ -121,3 +121,10 @@
 - [ ] Enable the fonts in your computer's fonts settings.
 - [ ] Adobe fonts are automatically reactivated through the Creative Cloud.
 - [ ] Relink the fonts to your Creative Cloud library.
+
+#### 17. What will clicking the circled icon in the Layers panel do?
+
+- [ ] Mark the layer as exportable.
+- [ ] Change the layer view.
+- [x] Mark the element for export.
+- [ ] Move the layer uppward in the layer stack.
